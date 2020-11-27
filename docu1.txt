@@ -7,6 +7,6 @@ ver 5
 
 
 rama1   
-	version1
-	version2
+	version 1
+	version 2
 	version 3
